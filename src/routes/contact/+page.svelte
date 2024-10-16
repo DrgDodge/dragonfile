@@ -1,4 +1,4 @@
-<p class="text-2xl font-bold text-white p-5">About Us</p>
+<p class="text-2xl font-bold text-white p-5">Contact</p>
 
 
 
