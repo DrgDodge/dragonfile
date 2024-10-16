@@ -1,8 +1,5 @@
 <div class="bg-cover bg-center h-screen bg-[url('https://4kwallpapers.com/images/wallpapers/lakeside-sunrise-early-morning-minimal-art-gradient-3840x2160-4587.png')]">
-    <!-- Adjusted image size -->
-    <img src="src/lib/images/Logo.png" alt="vulture" class="w-1/8 h-auto ml-5"> <!-- Change w-1/8 to the size you prefer -->
-    
-    <!-- Navigation Bar -->
+    <img src="/images/Logo.png" alt="vulture" class="w-1/8 h-auto ml-5">
     <nav class="absolute top-10 left-1/2 transform -translate-x-1/2 backdrop-blur-sm bg-white/30 text-3xl text-white font-bold flex rounded-3xl z-50 p-3">
         <ul class="flex space-x-10">
             <li>

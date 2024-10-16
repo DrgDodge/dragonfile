@@ -9,7 +9,7 @@
             Toate drepturile site-ului sunt rezervate exclusiv pentru acesta în sine și nu se extind asupra informațiilor, conținutului sau datelor furnizate de acesta.
         </p>
     </div>
-    <img src="src/lib/images/Logo.png" alt="vulture" class="w-1/4 h-auto ml-5 my-auto">
+    <img src="/images/Logo.png" alt="vulture" class="w-1/4 h-auto ml-5 my-auto">
 </div>
 
 <script>

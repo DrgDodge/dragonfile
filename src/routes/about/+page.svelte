@@ -3,7 +3,7 @@
         <p class="text-6xl font-bold text-white text-outline -mt-5 mb-2">Despre noi</p> 
         <p class="text-2xl font-bold text-white text-outline">Site realizat integral de Linu Sebastian Razvan Stefan cu Svelte, Vite, Tailwind, Docker</p>
     </div>
-    <img src="src/lib/images/Logo.png" alt="vulture" class="w-1/4 h-auto ml-5 my-auto">
+    <img src="/images/Logo.png" alt="vulture" class="w-1/4 h-auto ml-5 my-auto">
 </div>
 
 <script>
