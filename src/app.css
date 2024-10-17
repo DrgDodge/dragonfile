@@ -19,6 +19,9 @@ a {
     animation: fadeIn 1s ease forwards;
 }
 
+body { 
+    background-color: #115668;
+}
 
 .text-outline {
     text-shadow: 
