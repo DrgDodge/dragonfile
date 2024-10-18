@@ -5,6 +5,4 @@ services:
     container_name: history
     build: .
     restart: unless-stopped
-    ports:
-      - "3000:3000"
-    command: "npm run preview"
+    network_mode: host
