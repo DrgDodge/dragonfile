@@ -6,7 +6,8 @@ const config = {
 	preprocess: vitePreprocess(),
 
 	kit: {
-		adapter: adapter({out: 'build',	precompress: false, envPrefix: '', polyfill: true})
+		adapter: adapter({out: 'build',	precompress: false, envPrefix: '', polyfill: true}),
+		vite: () => ({ server: { port: 4000 }})
 	}
 };
 
