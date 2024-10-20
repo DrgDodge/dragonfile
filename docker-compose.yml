@@ -2,7 +2,7 @@ version: '3.9'
 
 services:
   history:
-    container_name: history
+    container_name: dragonfile
     build: .
     restart: unless-stopped
     network_mode: host
