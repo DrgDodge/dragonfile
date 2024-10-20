@@ -11,9 +11,9 @@ WORKDIR /app
 COPY --from=builder /app/build build/
 COPY --from=builder /app/node_modules node_modules/
 COPY package.json .
-EXPOSE 4000
+EXPOSE 4004
 ENV NODE_ENV=production
-ENV PORT=4000
+ENV PORT=4004
 CMD ["node", "build"]
 
 
